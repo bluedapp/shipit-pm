@@ -1,6 +1,6 @@
 {
   "name": "shipit-pm",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "pm2 tasks for shipit",
   "main": "index.js",
   "scripts": {
