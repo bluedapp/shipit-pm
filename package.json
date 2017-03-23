@@ -23,7 +23,8 @@
   "homepage": "https://github.com/bluedapp/shipit-pm#readme",
   "devDependencies": {
     "shipit-cnpm": "^0.1.0",
-    "shipit-deploy": "^2.0.0"
+    "shipit-deploy": "^2.0.0",
+    "standard": "^9.0.2"
   },
   "dependencies": {
     "shipit-utils": "^1.3.0"
