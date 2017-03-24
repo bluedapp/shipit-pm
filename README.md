@@ -26,7 +26,10 @@ module.exports = function(shipit) {
         flags: '--production'
       },
       pm: {
-        production: '/home/work/node-example/current/pm2/production.json',
+        production: {
+          path: '/home/work/node-example/current/pm2/production.json',
+          options: '--env production'
+        }
         development: '/home/work/node-example/current/pm2/development.json'
       }
     },
